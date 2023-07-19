@@ -1,3 +1,3 @@
-# Pro-g-ramming-Challenges
+# Pro/g/ramming-Challenges
 
 ![img](./img.png)
